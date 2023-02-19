@@ -351,3 +351,8 @@ MigrationBackup/
 
 # Rider
 .idea
+
+# Coverlet
+codecoverage
+TestResults
+coverage.json
